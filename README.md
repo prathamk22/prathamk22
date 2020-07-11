@@ -1,16 +1,12 @@
-### Hi there 👋
+# PRATHAM KHURANA
+[![Linkedin Badge](https://img.shields.io/badge/-PrathamKhurana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prathamk22/)](https://www.linkedin.com/in/prathamk22/)
+[![Twitter Badge](http://img.shields.io/badge/-@prathamk22-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/prathamk22)](https://twitter.com/prathamk22) [![Medium Badge](https://img.shields.io/badge/-@PrathamKhurana-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@prathamkhurana43/)](https://medium.com/@prathamkhurana43/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prathamkhurana43@gmail.com)](mailto:prathamkhurana43@gmail.com)
 
-<!--
-**prathamk22/prathamk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😉 About
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with Precisely.
+- 🌱 I’m currently learning Nodejs. 
+- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+- 🤔 I’m looking for help with Data Structures and Algorithm.
+- 💬 Ask me about anything related to Android.
