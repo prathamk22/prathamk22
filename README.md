@@ -8,7 +8,7 @@
 
 ### 😉 About
 
-- 🔭 I’m currently working with Appflix Studios.
+- 🔭 I’m currently working with [CarInfo](https://play.google.com/store/apps/details?id=com.cuvora.carinfo).
 - 🌱 I’m currently learning Kotlin/Ktor. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
